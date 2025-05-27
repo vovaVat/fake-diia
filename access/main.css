@@ -846,14 +846,3 @@ i.far {
   position: relative;
   overflow: hidden;
 }
-
-.front,
-.back {
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
