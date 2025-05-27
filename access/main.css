@@ -839,10 +839,3 @@ i.far {
 .pressed {
   background: black;
 }
-
-.pasport > .line {
-  background: linear-gradient(90deg, #b6eb9f, #9ccfcf);
-  margin-top: 53px;
-  position: relative;
-  overflow: hidden;
-}
